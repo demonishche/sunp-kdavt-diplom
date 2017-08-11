@@ -1,0 +1,17 @@
+.news-title {
+    color: #607d8b;
+}
+
+.news-button {
+    display: inline-block;
+    float: right;
+}
+
+.news-button button.btn.btn-default {
+        padding: 10px 12px;
+}
+
+.news-text {
+    font-size: 18px;
+    padding: 0 5%;
+}

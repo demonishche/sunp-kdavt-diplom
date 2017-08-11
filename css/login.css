@@ -1,0 +1,12 @@
+.errorMessage {
+    color: #e47474;
+    height: 20px;
+    margin: 0;
+    margin-bottom: 5px;
+    display:none;
+}
+
+form {
+    background: #e8eaf6;
+    padding: 10px;
+}

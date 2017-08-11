@@ -1,0 +1,20 @@
+.register-field select {
+     border: none;
+     box-shadow: 2px 5px 5px rgba(0,0,0,0.1);
+ }
+
+ .register-field {
+     margin: 0;
+ }
+
+.errorMessage {
+    color: #e47474;
+    height: 20px;
+    margin: 0;
+    margin-bottom: 5px;
+}
+
+form {
+    background: #e8eaf6;
+    padding: 10px;
+}

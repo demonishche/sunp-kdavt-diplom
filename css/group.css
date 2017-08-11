@@ -1,0 +1,156 @@
+/*.subcontent-block {
+    display: none;
+}
+
+.subcontent-block#news {
+    display:block;
+}
+
+.breadcrumb {
+    background-color: #e8eaf6;
+    margin-bottom: 10px;
+    box-shadow: 2px 5px 10px rgba(0,0,0, 0.1);
+}
+
+.action-panel .panel-heading {
+    justify-content: flex-start;
+    padding: 5px 15px;
+}
+
+.action-panel button.btn.btn-default {
+    padding: 2px 12px;
+    margin-right: 10px;
+}
+
+.create-folder-block {
+    display: none;
+    margin-bottom: 10px;
+}
+
+.materials-list {
+    padding: 0 15px;
+}
+
+.material-elem {
+    margin-right: 2%;
+    margin-bottom: 10px;
+}
+
+.material-elem-top > div {
+    padding: 0;
+}
+
+.material-elem-icon {
+    height: 64px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.material-elem-icon img {
+    height: auto;
+    width: 64px;
+}
+
+.material-elem-action {
+    font-size: 16px;
+    margin-right: 5px;
+}
+
+span.add-to-fav {
+    margin-bottom: 10px;
+}
+
+.material-elem-name {
+    padding: 0;
+}
+
+.material-elem-bottom .name {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0;
+    padding: 0;
+    text-align: right;
+}
+
+.folder .material-elem-bottom .name {
+    text-align: left;
+}
+
+.material-elem-bottom .format {
+    margin: 0;
+    padding: 0;
+}
+
+.label-button {
+    background: #fff;
+    color: #40c4ff;
+    cursor: pointer;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.1);
+    font-weight: normal;
+    padding: 2px 12px;
+    margin: 0;
+    margin-right: 10px;
+}
+
+.label-button:hover {
+    color: #81d4fa;
+    background-color: #fafafa;
+}
+
+.label-button.focus {
+    color: #81d4fa;
+    background-color: #fafafa;
+    box-shadow: 1px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.loading-files {
+    background: #e8eaf6;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.1);
+    display: none;
+}
+
+.loading-files .row {
+    padding: 5px 0;
+}
+
+.loading-file-name {
+    color: #40c4ff;
+}
+
+.loading-status {
+    color: #607d8b;
+    margin-top: 10px;
+    margin-bottom: 0;
+    display: inline-block;
+}
+
+.progress {
+    margin: 0;
+}
+
+.progress-bar {
+    background-color: #40c4ff;
+}
+
+.loading-actions span {
+    color: #40c4ff;
+    cursor: pointer;
+}
+
+.loading-actions span:hover {
+    color: #81d4fa;
+}
+
+button.btn.btn-default.done-load-files {
+    padding: 4px 12px;
+    margin-left: 10px;
+    display: none;
+}
+
+.request_action span, .user_action span {
+    cursor: pointer;
+}*/

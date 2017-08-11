@@ -1,0 +1,27 @@
+.panel-heading {
+    display: block;
+}
+
+.submenu {
+    margin-top: 10px;
+}
+
+.login-header, .email-header {
+    margin-left:15px;
+    font-weight: normal;
+}
+
+form {
+    background: #e8eaf6;
+    padding: 10px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 0;
+}
+
+h3.mini-header {
+    font-size: 20px;
+    color: #607d8b;
+}
